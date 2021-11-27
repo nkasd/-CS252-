@@ -25,15 +25,16 @@ void Collatz(int num)
     
     //Recalculating Num
     if(num==1)
-   { printf("Collatz ConjectureSequence completed");return;}
+   { printf("Collatz Conjecture Sequence completed\n");return;}
 
     if (num&1) //odd
     num=3*num+1;
     else       //even
     num=num/2;
-  }
-  //recall Collatz in order to find the next element
+       //recall Collatz in order to find the next element
   Collatz(num);
+  }
+  
 
   else
   {

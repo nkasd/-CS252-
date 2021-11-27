@@ -1,0 +1,20 @@
+Enter the number:8
+
+
+8
+Awaiting Child Process
+Child Process Initiated
+ 8
+Awaiting Child Process
+Child Process Initiated
+ 4
+Awaiting Child Process
+Child Process Initiated
+ 2
+Awaiting Child Process
+Child Process Initiated
+ 1
+Collatz ConjectureSequence completedParent Process Completed for 1
+Parent Process Completed for 2
+Parent Process Completed for 4
+Parent Process Completed for 8

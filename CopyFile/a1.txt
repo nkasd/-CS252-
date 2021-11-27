@@ -1,0 +1,20 @@
+This is a test file for copy checking.
+Copying data from source to destination.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Quisque vitae elit ut dui consectetur commodo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Ut luctus commodo lorem in semper. Phasellus scelerisque tempus pharetra. Sed quis quam sit amet arcu hendrerit accumsan. 
+Ut tincidunt odio aliquam, auctor dolor a, congue mi. Praesent in consectetur sapien. Vestibulum posuere tincidunt pretium. 
+Phasellus a dapibus lectus. Aenean eget sem volutpat, mattis elit at, auctor justo. Nullam vitae ornare dui, et pulvinar dolor. Aenean tempor tellus elit, vitae convallis massa vulputate tempus. 
+Morbi elementum diam commodo, mollis magna eget, facilisis elit. In faucibus lacus at tortor maximus rutrum. 
+Aliquam pharetra diam in cursus cursus. Aliquam rhoncus arcu id viverra porta.
+Fusce erat libero, euismod non vehicula vitae, sagittis eu mi. Sed eu lacus orci. Curabitur dapibus massa neque, 
+eget sollicitudin quam malesuada quis. Integer scelerisque rutrum est quis fermentum. Sed semper porta leo, 
+vel sollicitudin massa vestibulum quis. Pellentesque eget libero vitae quam molestie facilisis. 
+Nullam condimentum quis ex convallis pellentesque. Sed sodales est nec est suscipit, eu euismod dolor maximus. 
+Nunc porttitor condimentum velit, eget suscipit libero tincidunt consectetur. Mauris blandit euismod imperdiet. 
+Maecenas in nisl sed nisl porttitor rhoncus. Proin suscipit ante eu luctus tempus. Morbi id pulvinar dui. 
+Vestibulum ullamcorper nisi ac libero ullamcorper, eget facilisis augue efficitur. Sed convallis elit a purus blandit 
+placerat. Aenean tortor tortor, dignissim in dolor faucibus, tincidunt lacinia tellus.
+
+
